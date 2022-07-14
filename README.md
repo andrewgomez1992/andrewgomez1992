@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **finding a job in the Tech Industry**
 
-- 👨‍💻 All of my projects are available at drew-gomez.com
+- 👨‍💻 All of my projects are available at [drew-gomez.com](http://drew-gomez.com)
 
 - 💬 Ask me about **React, JavaScript, HTML, CSS, Nodejs, Express, Jest**
 
