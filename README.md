@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Advanced Data Structures and Algorithms**
 
-- 👯 I’m looking to collaborate on **any projects**
+- 👯 I’m looking to collaborate on **projects that will improve the world**
 
 - 🤝 I’m looking for help with **finding a job in the Tech Industry**
 
