@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrew Gomez</h1>
-<h3 align="center">A Prolific Front End Developer from California</h3>
+<h3 align="center">A Prolific Front End Software Engineer from California</h3>
 
 - 🔭 I’m currently working on [devSpace](https://dev-space-nine.vercel.app/)
 
