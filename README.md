@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Underdog-Devs](https://www.underdogdevs.org/)
 
-- 🌱 I’m currently learning **Advanced Data Structures and Algorithms**
+- 🌱 I’m currently learning **Git Workflow**
 
 - 👯 I’m looking to collaborate on **projects that will improve the world**
 
