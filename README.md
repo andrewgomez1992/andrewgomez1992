@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Underdog-Devs](https://www.underdogdevs.org/)
 
-- 🌱 I’m currently learning **Git Workflow**
+- 🌱 I’m currently learning **Git Workflow, Figma, and Miro**
 
 - 👯 I’m looking to collaborate on **projects that will improve the world**
 
