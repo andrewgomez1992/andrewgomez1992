@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Underdog-Devs](https://www.underdogdevs.org/)
 
-- 🌱 I’m currently focusing on learning more about the **backend**.
+- 🌱 I’m currently focused on learning more about the **backend**.
 
 - 👯 I’m looking to collaborate on **projects that will improve the world**
 
