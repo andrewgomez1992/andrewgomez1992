@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrew Gomez</h1>
 <h3 align="center">A Prolific Full Stack Developer / Software Engineer from California</h3>
 
-- 🔭 I’m currently working on [Underdog-Devs](https://www.underdogdevs.org/)
+- 🔭 I’m currently working at [Thryv](https://www.thryv.com/)
 
 - 🌱 I’m currently focused on learning more about the **backend**.
 
