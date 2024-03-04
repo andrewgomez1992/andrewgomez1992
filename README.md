@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **projects that will improve the world**
 
-- 👨‍💻 All of my projects are available at [drew-gomez.com](http://drew-gomez.com)
-
 - 💬 Ask me about **React, JavaScript, HTML, CSS, Nodejs, Express, Jest**
 
 - 📫 How to reach me **drewgomez209@gmail.com**
