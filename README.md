@@ -11,11 +11,11 @@
 
 ---
 
-### 🛠️ Featured Projects
+### 🛠️ Latest Projects
 
-- 🧠 [`regex-simplifier`](https://www.npmjs.com/package/@the-node-forge/regex-simplifier): Build, explain, and test regex using clean readable syntax.  
-- 🔗 [`url-shortener`](https://www.npmjs.com/package/@the-node-forge/url-shortener): A fast, Redis-powered shortlink service.  
-- ⏳ [`loader-kit`](https://www.npmjs.com/package/@the-node-forge/loader-kit): Minimal, pluggable loading components for the web.  
+- 🧠 [`regex-simplifier`](https://www.npmjs.com/package/@the-node-forge/regex-simplifier): A clean, developer-friendly utility to build, explain, and test regular expressions.  
+- 🔗 [`url-shortener`](https://www.npmjs.com/package/@the-node-forge/url-shortener): A simple, fast, Redis-powered shortlink service built in TypeScript.  
+- ⏳ [`loader-kit`](https://www.npmjs.com/package/@the-node-forge/loader-kit): A lightweight, pluggable loading component library for JavaScript/TypeScript apps.  
 
 ---
 
