@@ -1,99 +1,64 @@
-<h1 align="center">Hi 👋, I'm Andrew Gomez</h1>
-<h3 align="center">A Product-Oriented Full Stack Developer from California</h3>
+<h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Sparkle welcome gif" width="30" style="vertical-align: middle;" /> What's up!</h1>
+<p>I'm Drew — a fullstack dev who builds fast, clean, and practical web apps with React, Node.js, and a sprinkle of cloud. Passionate about solving real-world problems and crafting smooth dev experiences.</p>
 
-- 🔭 Currently building full stack features at [Thryv](https://www.thryv.com/) using React, Node.js, SQL, and Express  
-- 🌱 Sharpening my backend skills — NestJS, Redis, API architecture, testing  
-- 👯 Looking to collaborate on **tools that improve developer experience**  
-- 💬 Ask me about **React, Node.js, Express, SQL, API design, and building NPM packages**  
-- 📫 Reach me at **drewgomez209@gmail.com**  
-- 📄 Learn more on [LinkedIn](https://www.linkedin.com/in/andrewgomez1992)  
-- ⚡ Fun fact: I have 2 Akitas and a Husky-Wolf mix — we hike a lot, and they’re the best debugging companions 🐾  
+<h2>Things I code with</h2>
 
----
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
+  <!-- Languages & Core -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
 
-### 🛠️ Latest Projects
+  <!-- Backend & DevOps -->
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white" alt="Heroku" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white" alt="NPM" />
+
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" alt="Sass" />
+  <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=flat&logo=styled-components&logoColor=white" alt="Styled Components" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" alt="Redux" />
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=black" alt="Prettier" />
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white" alt="ESLint" />
+  <img src="https://img.shields.io/badge/Insomnia-4000BF?style=flat&logo=insomnia&logoColor=white" alt="Insomnia" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" alt="Jest" />
+</div>
+
+<h2>Latest Projects</h2>
 
 - 🧠 [`regex-simplifier`](https://www.npmjs.com/package/@the-node-forge/regex-simplifier): A clean, developer-friendly utility to build, explain, and test regular expressions.  
 - 🔗 [`url-shortener`](https://www.npmjs.com/package/@the-node-forge/url-shortener): A simple, fast, Redis-powered shortlink service built in TypeScript.  
 - ⏳ [`loader-kit`](https://www.npmjs.com/package/@the-node-forge/loader-kit): A lightweight, pluggable loading component library for JavaScript/TypeScript apps.  
-- 🕯️ [`vanish-candles.vercel.app`](https://vanish-candles.vercel.app/): A sleek, full-stack candle brand built from scratch with a clean eCommerce design and personalized affirmations. This bad boy is still in the works, and the backend is not currently live!
+- 🕯️ [`vanish-candles.vercel.app`](https://vanish-candles.vercel.app): A sleek, full-stack candle brand built from scratch with eCommerce and personalized affirmation features.
 
----
 
-### 🤝 Connect with me
+<h2>Connect With Me</h2>
 
-<p align="left">
-  <a href="https://linkedin.com/in/andrewgomez1992" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrewgomez1992" height="30" width="40" />
-  </a>
-  <a href="https://codesandbox.com/andrewgomez1992" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="andrewgomez1992" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/_drewgomez_" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_drewgomez_" height="30" width="40" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrewgomez1992)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/_drewgomez_)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://react-portfolio-tau-orcin.vercel.app/)
 
----
 
-### 🧰 Languages & Tools
+<h2>💛 Support</h2>
 
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://heroku.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
-  </a>
-  <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/>
-  </a>
-</p>
+If you like my work or projects, feel free to [buy me a coffee](https://www.buymeacoffee.com/drewgomez2A) ☕ :)
 
----
 
-### 💛 Support
-
-<p>
-  <a href="https://www.buymeacoffee.com/drewgomez2A">
-    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="drewgomez2A" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrewgomez1992&show_icons=true&locale=en&layout=compact" alt="andrewgomez1992" />
-</p>
+<!-- Optional GitHub stats if you want to keep it -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewgomez1992&layout=compact&theme=transparent)
