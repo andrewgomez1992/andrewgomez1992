@@ -54,11 +54,26 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/_drewgomez_)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://react-portfolio-tau-orcin.vercel.app/)
 
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andrewgomez1992/snk/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andrewgomez1992/snk/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/andrewgomez1992/snk/output/github-snake.svg" />
+</picture>
+</div>
 
-<h2>💛 Support</h2>
+<h2 align="center">⚡ Lil Snapshot</h2>
 
-If you like my work or projects, feel free to [buy me a coffee](https://www.buymeacoffee.com/drewgomez2A) ☕ :)
+<p align="center">Always learning, always building. Here’s a quick look under the hood:</p>
 
+<div align="center">
+  <!-- GitHub Stats -->
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=andrewgomez1992&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewgomez1992&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
-<!-- Optional GitHub stats if you want to keep it -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewgomez1992&layout=compact&theme=transparent)
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5D3FD3&height=100&section=footer"/>
+</p>
