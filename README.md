@@ -45,7 +45,7 @@
 - 🧠 [`regex-simplifier`](https://www.npmjs.com/package/@the-node-forge/regex-simplifier): A clean, developer-friendly utility to build, explain, and test regular expressions.  
 - 🔗 [`url-shortener`](https://www.npmjs.com/package/@the-node-forge/url-shortener): A simple, fast, Redis-powered shortlink service built in TypeScript.  
 - ⏳ [`loader-kit`](https://www.npmjs.com/package/@the-node-forge/loader-kit): A lightweight, pluggable loading component library for JavaScript/TypeScript apps.  
-- 🕯️ [`vanish-candles.vercel.app`](https://vanish-candles.vercel.app): A sleek, full-stack candle brand built from scratch with eCommerce and personalized affirmation features.
+- 🕯️ [`vanish-candles.vercel.app`](https://vanish-candles.vercel.app): A sleek React e-commerce frontend for high-end candles, featuring smooth animations, Stripe checkout, and a custom admin dashboard.
 
 
 <h2>Connect With Me</h2>
