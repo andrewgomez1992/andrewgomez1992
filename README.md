@@ -1,5 +1,5 @@
 <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Sparkle welcome gif" width="30" style="vertical-align: middle;" /> What's up!</h1>
-<p>I'm Drew — a fullstack dev who builds fast, clean, and practical web apps with React, Node.js, and a sprinkle of cloud. Passionate about solving real-world problems and crafting smooth dev experiences.</p>
+<p>I'm Drew — a fullstack dev who builds fast, clean, and practical software and web apps. Passionate about solving real-world problems and crafting smooth dev experiences.</p>
 
 <h2>Things I code with</h2>
 
