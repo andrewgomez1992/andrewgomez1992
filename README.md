@@ -65,9 +65,9 @@
 
 <!-- <h2 align="center">⚡ Lil Snapshot</h2> -->
 
-<p align="center">Always learning, always building. Here’s a quick look under the hood:</p>
+<p>Always learning, always building. Here’s a quick look under the hood:</p>
 
-<div align="center">
+<div>
   <!-- GitHub Stats -->
   <!-- <img width="390" src="https://github-readme-stats.vercel.app/api?username=andrewgomez1992&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" /> -->
   <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewgomez1992&layout=compact&theme=tokyonight&hide_border=true" />
